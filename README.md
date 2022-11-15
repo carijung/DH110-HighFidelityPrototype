@@ -7,6 +7,7 @@ The objective of this high fildelity prototype is to provide a highly functional
 
 ## Tasks
 >  The tasks were generated from the user personas and scenarios 
+
 • Task 1: Create a personalized data based on sustainbaility topics and country/region(s)
 •  Task 2: Find information about each sustainable goal
 
