@@ -17,6 +17,7 @@ The objective of this high fildelity prototype is to provide a highly functional
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/114601962/202027194-72011578-7e5e-4497-847f-58c8fb0482af.png)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYgUavzJwlZkIgQS3IA7pNk%2FDH110--Assignment-7%253A-High-Fidelity-Prototype%3Fnode-id%3D0%253A1%26t%3Dg7YPsIS6sARE1aym-1" allowfullscreen></iframe>
 
 ## High Fidelity Prototype 
 > blah blah
