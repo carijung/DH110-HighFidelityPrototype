@@ -13,7 +13,7 @@ Cari Jung • DH110 • Fall 2022
 <p>&nbsp;</p>
 
 
-A list of tasks that your interactive prototype supports. (at least two)
+
 One image (diagram) with the wireflow with graphic design 
 Link to the interactive prototype or embed the interactive prototype.
 Evidence of cognitive walkthrough
