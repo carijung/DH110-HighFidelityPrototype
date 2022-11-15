@@ -7,11 +7,14 @@ The objective of this high fildelity prototype is to provide a highly functional
 
 ## Tasks
 >  The tasks were generated from the user personas and scenarios 
-#### • Task 1: Create a personalized data based on sustainbaility topics and country/region(s)
-#### •  Task 2: Find information about each sustainable goal
+• Task 1: Create a personalized data based on sustainbaility topics and country/region(s)
+•  Task 2: Find information about each sustainable goal
 
 
 ## Wireflow 
+
+![Screenshot (67)](https://user-images.githubusercontent.com/114601962/202027194-72011578-7e5e-4497-847f-58c8fb0482af.png)
+
 [wireflow ] this is the whole wire flow that allows Figma to generate a ......
 [wireflow for each task]
 
