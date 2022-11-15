@@ -10,7 +10,7 @@ The objective of this high fildelity prototype is to provide a highly functional
 
 • Task 1: Create a personalized data based on sustainbaility topics and country/region(s)
 
-•  Task 2: Find information about each sustainable goal
+• Task 2: Find information about each sustainable goal
 
 ## Wireflow 
 > blah blah Visit this link to see the wireflow 
@@ -20,8 +20,7 @@ The objective of this high fildelity prototype is to provide a highly functional
 
 
 ## High Fidelity Prototype 
-> blah blah click image or this link to go to the prototype 
-[embed and link]
+Click image or visit this [link](https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300) to view and interact with prototype. 
 
 [![Rectangle 398](https://user-images.githubusercontent.com/114601962/202030386-bd8b7c87-b0b6-48a2-bf21-914a227308d7.png)](https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
