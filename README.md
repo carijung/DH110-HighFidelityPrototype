@@ -2,12 +2,12 @@
 Cari Jung • DH110 • Fall 2022
 
 ## Description of Project
-### Purpose and Process of Interactive Prototype Phase
+#### Purpose and Process of Interactive Prototype Phase
 
 ## Tasks
-### • Task 1
+#### • Task 1
 
-### •  Task 2
+#### •  Task 2
 
 
 <p>&nbsp;</p>
