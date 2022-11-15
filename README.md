@@ -15,7 +15,7 @@ The objective of this high fildelity prototype is to provide a highly functional
 ## Wireflow 
 > blah blah Visit this link to see the wireflow 
 
-[![Screenshot (67)](https://user-images.githubusercontent.com/114601962/202027194-72011578-7e5e-4497-847f-58c8fb0482af.png)](https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
+![Screenshot (67)](https://user-images.githubusercontent.com/114601962/202027194-72011578-7e5e-4497-847f-58c8fb0482af.png)
 
 
 
@@ -23,7 +23,7 @@ The objective of this high fildelity prototype is to provide a highly functional
 > blah blah click image or this link to go to the prototype 
 [embed and link]
 
-![Rectangle 398](https://user-images.githubusercontent.com/114601962/202030386-bd8b7c87-b0b6-48a2-bf21-914a227308d7.png)
+[![Rectangle 398](https://user-images.githubusercontent.com/114601962/202030386-bd8b7c87-b0b6-48a2-bf21-914a227308d7.png)](https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
 ### Components
 ![Screenshot (69)](https://user-images.githubusercontent.com/114601962/202027876-17c3b67d-7f06-404e-bb00-0795cb738a81.png)
