@@ -33,4 +33,3 @@ The objective of this high fildelity prototype is to provide a highly functional
 ## Usability Testing 
 
 
-<p>&nbsp;</p>
