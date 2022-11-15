@@ -12,17 +12,22 @@ The objective of this high fildelity prototype is to provide a highly functional
 
 •  Task 2: Find information about each sustainable goal
 
-
 ## Wireflow 
+> blah blah
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/114601962/202027194-72011578-7e5e-4497-847f-58c8fb0482af.png)
 
-[wireflow ] this is the whole wire flow that allows Figma to generate a ......
-[wireflow for each task]
 
 ## High Fidelity Prototype 
+> blah blah
 [embed and link]
-[components]
+
+#### Components
+![Screenshot (69)](https://user-images.githubusercontent.com/114601962/202027876-17c3b67d-7f06-404e-bb00-0795cb738a81.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/114601962/202028611-25b6f949-b286-4d63-b79f-1ba7f4612092.png)
+
+![Screenshot (73)](https://user-images.githubusercontent.com/114601962/202028753-c043fe6f-e7d4-4d69-882e-8e07115360b4.png)
+
 
 ## Cognitive Walkthrough
 
