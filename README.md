@@ -15,7 +15,7 @@ The objective of this high fildelity prototype is to provide a highly functional
 ## Wireflow 
 > blah blah Visit this link to see the wireflow 
 
-![Screenshot (67)](https://user-images.githubusercontent.com/114601962/202027194-72011578-7e5e-4497-847f-58c8fb0482af.png)
+[![Screenshot (67)](https://user-images.githubusercontent.com/114601962/202027194-72011578-7e5e-4497-847f-58c8fb0482af.png)](https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
 
 
