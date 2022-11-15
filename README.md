@@ -11,10 +11,17 @@ The objective of this high fildelity prototype is to provide a highly functional
 #### •  Task 2: Find information about each sustainable goal
 
 
+## Wireflow 
+[wireflow ] this is the whole wire flow that allows Figma to generate a ......
+[wireflow for each task]
 
-One image (diagram) with the wireflow with graphic design 
-Link to the interactive prototype or embed the interactive prototype.
-Evidence of cognitive walkthrough
-If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes. 
+## High Fidelity Prototype 
+[embed and link]
+[components]
+
+## Cognitive Walkthrough
+
+## Usability Testing 
+
 
 <p>&nbsp;</p>
