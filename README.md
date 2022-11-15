@@ -3,7 +3,7 @@ Cari Jung • DH110 • Fall 2022
 
 ## Description of Project
 #### Purpose and Process of Interactive Prototype Phase
-The objective of this high fildelity prototype is to provide a highly functional and interactive representation of the UNEP website. I changed the frames from the low fidelity prototype to fit a cellular device since there are more users who have access to a cellphone than a laptop or computer. I used Figma to make components such as buttons and the hamburger menu clickable to allow clicking to incremently complete a specific task and to see how those features influence the user's choice and performance.
+The objective of this high fildelity prototype is to provide a highly functional and interactive representation of the UNEP website and to see how those features influence the user's choice and performance. I changed the frames from the low fidelity prototype to fit a cellular device since there are more users who have access to a cellphone than a laptop or computer. I used the prototyping features in Figma to make components such as buttons and the hamburger menu clickable to allow clicking to increment to the next page or display an overlay. 
 
 ## Tasks
 >  The tasks were generated from the user personas and scenarios 
