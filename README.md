@@ -29,7 +29,8 @@ The objective of this high fildelity prototype is to provide a highly functional
 
 
 ## Cognitive Walkthrough
+[To be filled out after conducting]
 
 ## Usability Testing 
-
+[To be filled out after conducting]
 
