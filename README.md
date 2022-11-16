@@ -20,7 +20,7 @@ The objective of this high fildelity prototype is to provide a highly functional
 ## High Fidelity Prototype 
 > Click image or [access the prototype here.](https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
-[![Screenshot (78)](https://user-images.githubusercontent.com/114601962/202034598-439544b8-8d5c-42d2-b232-52692a415f34.png)](https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
+[![Screenshot (84)](https://user-images.githubusercontent.com/114601962/202095004-d126a08a-3942-461e-bc53-9c615c3c3ad1.png)](https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
 ### Components
 ![Screenshot (69)](https://user-images.githubusercontent.com/114601962/202027876-17c3b67d-7f06-404e-bb00-0795cb738a81.png)
