@@ -10,7 +10,7 @@ The objective of this high fildelity prototype is to provide a highly functional
 
 • Task 1: Create a personalized data based on sustainbaility topics and country/region(s)
 
-• Task 2: Find information about each sustainable goal
+• Task 2: Access information about each sustainable goal
 
 ## Wireflow 
 > Click image or [access the wireflow here.](https://www.figma.com/file/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=0%3A1&t=g7YPsIS6sARE1aym-1) 
@@ -29,7 +29,11 @@ The objective of this high fildelity prototype is to provide a highly functional
 
 
 ## Cognitive Walkthrough
-[To be filled out after conducting]
+>The cognitive walkthrough was conducted with two of my peers in Digital Humanities 110. This process took 15 minutes and they performed two tasks: creating their own data and accessing information about sustainability. While conducting each rask, they gave their impression and thoughts about the high fidelity prototype. 
+>Here is the [link](https://docs.google.com/document/d/1ck9x-QYbQ0hModiI80cJq1OSeZMLF6N7SrOoUZfEdGE/edit?usp=sharing) to the cognitive walkthrough that displays the comments my peers made. 
+
+### Summary of Cognitive Walkthrough
+
 
 ## Usability Testing 
 [To be filled out after conducting]
