@@ -29,7 +29,8 @@ The objective of this high fildelity prototype is to provide a highly functional
 
 
 ## Cognitive Walkthrough
->The cognitive walkthrough was conducted with two of my peers in Digital Humanities 110. This process took 15 minutes and they performed two tasks: creating their own data and accessing information about sustainability. While conducting each rask, they gave their impression and thoughts about the high fidelity prototype. 
+The cognitive walkthrough was conducted with two of my peers in Digital Humanities 110. This process took 15 minutes and they performed two tasks: creating their own data and accessing information about sustainability. While conducting each rask, they gave their impression and thoughts about the high fidelity prototype. 
+
 >Here is the [link](https://docs.google.com/document/d/1ck9x-QYbQ0hModiI80cJq1OSeZMLF6N7SrOoUZfEdGE/edit?usp=sharing) to the cognitive walkthrough that displays the comments my peers made. 
 
 ### Summary of Cognitive Walkthrough
