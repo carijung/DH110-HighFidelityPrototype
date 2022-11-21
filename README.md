@@ -52,7 +52,7 @@ My peers were able to understand the purpose of the prototype and made remarks a
 
 > I changed the color contrast of the color blue so the white fonts and backgrounds pass the 4.5:1 contrast ratio.  
 
-<img src="https://user-images.githubusercontent.com/114601962/202967570-3552b507-ee48-44df-ad62-65fd3ca8b7a5.png" width="590" height="500">
+<img src="https://user-images.githubusercontent.com/114601962/202967570-3552b507-ee48-44df-ad62-65fd3ca8b7a5.png" width="590" height="510">
 
 ## Usability Testing 
 
