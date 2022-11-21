@@ -13,7 +13,7 @@ The objective of this high fildelity prototype is to provide a highly functional
 • Task 2: Access information about each sustainable goal
 
 ## Wireflow 
->I provided two wireflows. The primary wireflow was created before the cognitive walkthrough and the latter is was redesigned using the feedback received from the cognitive walkthrough.
+I provided two wireflows. The primary wireflow was created before the cognitive walkthrough and the latter is was redesigned using the feedback received from the cognitive walkthrough.
 
 > Click image or [access the primary wireflow here.](https://www.figma.com/file/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=0%3A1&t=g7YPsIS6sARE1aym-1) 
 
