@@ -19,7 +19,10 @@ I provided two wireflows. The primary wireflow was created before the cognitive 
 
 [![Screenshot (81)](https://user-images.githubusercontent.com/114601962/202093313-322d7cf7-a05f-4855-97b2-280e8740d65c.png)](https://www.figma.com/file/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=0%3A1&t=g7YPsIS6sARE1aym-1)
 
-> Click image or [access the updated wireflow here](
+> Click image or [access the updated wireflow here.](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
+
+[![Screenshot (85)](https://user-images.githubusercontent.com/114601962/202968892-fc0a0f0d-85f4-4792-b24d-d881b92e189e.png)](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
+
 
 
 ## High Fidelity Prototype 
