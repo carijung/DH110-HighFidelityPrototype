@@ -34,11 +34,14 @@ The cognitive walkthrough was conducted with two of my peers in Digital Humaniti
 >Here is the [link](https://docs.google.com/document/d/1ck9x-QYbQ0hModiI80cJq1OSeZMLF6N7SrOoUZfEdGE/edit?usp=sharing) to the cognitive walkthrough that displays the comments my peers made. 
 
 ### Summary of Cognitive Walkthrough
-My peers were able to understand the purpose of the prototype and made remarks about the understandable flow. The biggest issue found was the overwhelming menu bar (especially for mobile devices) and the vague "What we do" navigation tab that prevented them from recognizing where to click to perform the tasks. They did not know what to expect when pressing the tab. Moreover, the small font has brought to my attention.  
+My peers were able to understand the purpose of the prototype and made remarks about the understandable flow. The biggest issue found was the overwhelming menu bar (especially for mobile devices) and the vague "What we do" navigation tab that prevented them from recognizing where to click to perform the tasks. They did not know what to expect when pressing the tab. Other elements that were brought to my attention include the small font and the how there were no indicators in the homescreen that told them the page was scrollable, which led to them missing information.   
 
 #### • Changes I made
 > Instead of a laundry list of menus in the “what we do” tab, I created a separate page that shows all the options. The fonts for each option is enlarged and is displayed in the form of a button that prompts the users to the designated page. 
-> I changed the font 
+
+> I changed the font of the body texts from size 11 to 14. 
+
+> To make the homescreen look scrollable I removed some whitespace so 
 
 
 #### • Other changes made post cognitive walkthrough
