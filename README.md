@@ -31,7 +31,7 @@ I provided two wireflows. The primary wireflow was created before the cognitive 
 ### Components
 <img src="https://user-images.githubusercontent.com/114601962/202027876-17c3b67d-7f06-404e-bb00-0795cb738a81.png" width="800" height="820">
 
-<img src ="https://user-images.githubusercontent.com/114601962/202028611-25b6f949-b286-4d63-b79f-1ba7f4612092.png" width="800" height="780">
+<img src ="https://user-images.githubusercontent.com/114601962/202028611-25b6f949-b286-4d63-b79f-1ba7f4612092.png" width="800" height="760">
 
 <img src="https://user-images.githubusercontent.com/114601962/202028753-c043fe6f-e7d4-4d69-882e-8e07115360b4.png" width= "800" height="780">
 
