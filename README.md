@@ -29,7 +29,7 @@ I provided two wireflows. The primary wireflow was created before the cognitive 
 [![Screenshot (84)](https://user-images.githubusercontent.com/114601962/202095004-d126a08a-3942-461e-bc53-9c615c3c3ad1.png)](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
 ### Components
-<img src="https://user-images.githubusercontent.com/114601962/202027876-17c3b67d-7f06-404e-bb00-0795cb738a81.png" width="600" height="700">
+<img src="https://user-images.githubusercontent.com/114601962/202027876-17c3b67d-7f06-404e-bb00-0795cb738a81.png" width="630" height="700">
 
 ![Screenshot (68)](https://user-images.githubusercontent.com/114601962/202028611-25b6f949-b286-4d63-b79f-1ba7f4612092.png)
 ![Screenshot (73)](https://user-images.githubusercontent.com/114601962/202028753-c043fe6f-e7d4-4d69-882e-8e07115360b4.png)
@@ -46,7 +46,7 @@ My peers were able to understand the purpose of the prototype and made remarks a
 #### • Changes I made
 > Instead of a laundry list of menus in the “what we do” tab, I created a separate page that shows all the options. The fonts for each option is enlarged and is displayed in the form of a button that prompts the users to the designated page. 
 
-<img src="https://user-images.githubusercontent.com/114601962/202966129-8ca9fd6c-40f6-4ee9-9f90-b21a80c7901e.png" width ="610" height="500">
+<img src="https://user-images.githubusercontent.com/114601962/202966129-8ca9fd6c-40f6-4ee9-9f90-b21a80c7901e.png" width ="680" height="500">
 
 > I changed the font of the body texts from size 11 to 14. 
 
