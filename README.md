@@ -57,7 +57,7 @@ My peers were able to understand the purpose of the prototype and made remarks a
 #### • Other changes made post cognitive walkthrough
 > I decreased the saturation of the 17 icons so the page isn't too bright. 
 
-<img src="https://user-images.githubusercontent.com/114601962/202967122-418b136a-74f2-4717-b5e6-ef70c047fcc1.png" width="790" height="470">
+<img src="https://user-images.githubusercontent.com/114601962/202967122-418b136a-74f2-4717-b5e6-ef70c047fcc1.png" width="800" height="470">
 
 > I changed the color contrast of the color blue so the white fonts and backgrounds pass the 4.5:1 contrast ratio.  
 
