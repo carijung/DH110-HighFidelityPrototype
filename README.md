@@ -39,7 +39,6 @@ My peers were able to understand the purpose of the prototype and made remarks a
 #### • Changes I made
 > Instead of a laundry list of menus in the “what we do” tab, I created a separate page that shows all the options. The fonts for each option is enlarged and is displayed in the form of a button that prompts the users to the designated page. 
 
-![new_whattodo](https://user-images.githubusercontent.com/114601962/202963935-aae3aaf2-7bbc-4838-aa7a-d909d967b963.png)
 
 > I changed the font of the body texts from size 11 to 14. 
 
@@ -49,6 +48,7 @@ My peers were able to understand the purpose of the prototype and made remarks a
 > I decreased the saturation of the 17 icons so the page isn't too bright. 
 
 > I changed the color contrast of the color blue so the white fonts and backgrounds fit the 4.5:1 contrast ratio.  
+
 
 ## Usability Testing 
 [To be filled out after conducting]
