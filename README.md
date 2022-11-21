@@ -24,9 +24,9 @@ I provided two wireflows. The primary wireflow was created before the cognitive 
 [![Screenshot (85)](https://user-images.githubusercontent.com/114601962/202968892-fc0a0f0d-85f4-4792-b24d-d881b92e189e.png)](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
 ## High Fidelity Prototype 
-> Click image or [access the prototype here.](https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
+> Click image or [access the prototype here.](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
-[![Screenshot (84)](https://user-images.githubusercontent.com/114601962/202095004-d126a08a-3942-461e-bc53-9c615c3c3ad1.png)](https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
+[![Screenshot (84)](https://user-images.githubusercontent.com/114601962/202095004-d126a08a-3942-461e-bc53-9c615c3c3ad1.png)]([https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
 ### Components
 ![Screenshot (69)](https://user-images.githubusercontent.com/114601962/202027876-17c3b67d-7f06-404e-bb00-0795cb738a81.png)
