@@ -47,7 +47,7 @@ My peers were able to understand the purpose of the prototype and made remarks a
 #### • Other changes made post cognitive walkthrough
 > I decreased the saturation of the 17 icons so the page isn't too bright. 
 
-> Changed the color contrast of the color blue so the white fonts and backgrounds fit the 4.5:1 contrast ratio.  
+> I changed the color contrast of the color blue so the white fonts and backgrounds fit the 4.5:1 contrast ratio.  
 
 ## Usability Testing 
 [To be filled out after conducting]
