@@ -39,11 +39,11 @@ My peers were able to understand the purpose of the prototype and made remarks a
 #### • Changes I made
 > Instead of a laundry list of menus in the “what we do” tab, I created a separate page that shows all the options. The fonts for each option is enlarged and is displayed in the form of a button that prompts the users to the designated page. 
 
+![new_whattodo](https://user-images.githubusercontent.com/114601962/202963935-aae3aaf2-7bbc-4838-aa7a-d909d967b963.png)
+
 > I changed the font of the body texts from size 11 to 14. 
 
 > To make the homepage look scrollable I removed some whitespace so that the page doesn't look like it ends at the "See More" button. Now, users can see the image that is cut off at the bottom of the screen, which prompts them to scroll and see more and discover more infomation. 
-
-<img width="593" alt="Screenshot_20221025_113101" src="https://user-images.githubusercontent.com/114601962/202963841-d5945296-ca70-45d8-8cc1-34593d936067.png">
 
 #### • Other changes made post cognitive walkthrough
 > I decreased the saturation of the 17 icons so the page isn't too bright. 
