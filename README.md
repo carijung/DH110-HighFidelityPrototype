@@ -19,14 +19,14 @@ I provided two wireflows. The primary wireflow was created before the cognitive 
 
 [![Screenshot (81)](https://user-images.githubusercontent.com/114601962/202093313-322d7cf7-a05f-4855-97b2-280e8740d65c.png)](https://www.figma.com/file/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=0%3A1&t=g7YPsIS6sARE1aym-1)
 
-> Click image below or [access the updated wireflow here.](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
+> Click image below or [access the updated wireflow here.](https://www.figma.com/file/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=0%3A1&t=Ib2PSOnkAA91QEkq-1)
 
-[![Screenshot (85)](https://user-images.githubusercontent.com/114601962/202968892-fc0a0f0d-85f4-4792-b24d-d881b92e189e.png)](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
+[![Screenshot (85)](https://user-images.githubusercontent.com/114601962/202968892-fc0a0f0d-85f4-4792-b24d-d881b92e189e.png)](https://www.figma.com/file/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=0%3A1&t=Ib2PSOnkAA91QEkq-1)
 
 ## High Fidelity Prototype 
 > Click image or [access the prototype here.](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
-[![Screenshot (84)](https://user-images.githubusercontent.com/114601962/202095004-d126a08a-3942-461e-bc53-9c615c3c3ad1.png)]([https://www.figma.com/proto/YgUavzJwlZkIgQS3IA7pNk/DH110--Assignment-7%3A-High-Fidelity-Prototype?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
+[![Screenshot (84)](https://user-images.githubusercontent.com/114601962/202095004-d126a08a-3942-461e-bc53-9c615c3c3ad1.png)](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
 ### Components
 ![Screenshot (69)](https://user-images.githubusercontent.com/114601962/202027876-17c3b67d-7f06-404e-bb00-0795cb738a81.png)
