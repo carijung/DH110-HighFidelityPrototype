@@ -29,11 +29,11 @@ I provided two wireflows. The primary wireflow was created before the cognitive 
 [![Screenshot (84)](https://user-images.githubusercontent.com/114601962/202095004-d126a08a-3942-461e-bc53-9c615c3c3ad1.png)](https://www.figma.com/proto/U6gqmhKycRf2WfLEKZYPgb/DH110--Assignment-7%3A-High-Fidelity-Prototype-(Copy)?node-id=1%3A300&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A300)
 
 ### Components
-<img src="https://user-images.githubusercontent.com/114601962/202027876-17c3b67d-7f06-404e-bb00-0795cb738a81.png" width="650" height="700">
+<img src="https://user-images.githubusercontent.com/114601962/202027876-17c3b67d-7f06-404e-bb00-0795cb738a81.png" width="800" height="800">
 
-<img src ="https://user-images.githubusercontent.com/114601962/202028611-25b6f949-b286-4d63-b79f-1ba7f4612092.png" width="800" height="700">
+<img src ="https://user-images.githubusercontent.com/114601962/202028611-25b6f949-b286-4d63-b79f-1ba7f4612092.png" width="800" height="800">
 
-<img src="https://user-images.githubusercontent.com/114601962/202028753-c043fe6f-e7d4-4d69-882e-8e07115360b4.png" width= "800" height="700">
+<img src="https://user-images.githubusercontent.com/114601962/202028753-c043fe6f-e7d4-4d69-882e-8e07115360b4.png" width= "800" height="800">
 
 ## Cognitive Walkthrough
 The cognitive walkthrough was conducted with two of my peers in Digital Humanities 110. This process took 15 minutes and they performed two tasks: creating their own data and accessing information about sustainability. While conducting each rask, they gave their impression and thoughts about the high fidelity prototype. 
