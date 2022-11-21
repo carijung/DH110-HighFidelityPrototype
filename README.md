@@ -34,7 +34,8 @@ The cognitive walkthrough was conducted with two of my peers in Digital Humaniti
 >Here is the [link](https://docs.google.com/document/d/1ck9x-QYbQ0hModiI80cJq1OSeZMLF6N7SrOoUZfEdGE/edit?usp=sharing) to the cognitive walkthrough that displays the comments my peers made. 
 
 ### Summary of Cognitive Walkthrough
-
+My peers were able to understand the purpose of the prototype and made remarks about the understandable flow. The biggest issue found was the overwhelming menu bar (especially for mobile devices) and the vague "What we do" navigation tab that prevented them from recognizing where to click to perform the tasks. They did not know what to expect when pressing the tab.  
+> Instead of a laundry list of menus in the “what we do” tab, I created a separate page that shows all the options. The fonts for each option is enlarged and is displayed in the form of a button that prompts the users to the designated page. 
 
 ## Usability Testing 
 [To be filled out after conducting]
