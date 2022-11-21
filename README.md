@@ -43,6 +43,7 @@ My peers were able to understand the purpose of the prototype and made remarks a
 
 > To make the homepage look scrollable I removed some whitespace so that the page doesn't look like it ends at the "See More" button. Now, users can see the image that is cut off at the bottom of the screen, which prompts them to scroll and see more and discover more infomation. 
 
+<img width="593" alt="Screenshot_20221025_113101" src="https://user-images.githubusercontent.com/114601962/202963841-d5945296-ca70-45d8-8cc1-34593d936067.png">
 
 #### • Other changes made post cognitive walkthrough
 > I decreased the saturation of the 17 icons so the page isn't too bright. 
