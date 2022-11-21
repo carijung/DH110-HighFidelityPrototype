@@ -3,7 +3,7 @@ Cari Jung • DH110 • Fall 2022
 
 ## Description of Project
 #### Purpose and Process of Interactive Prototype Phase
-The objective of this high fildelity prototype is to provide a highly functional and interactive representation of the UNEP website and to see how those features influence the user's choice and performance. I changed the frames from the low fidelity prototype to fit a cellular device since there are more users who have access to a cellphone than a laptop or computer. I used the prototyping features in Figma to make components such as buttons and the hamburger menu clickable to allow clicking to increment to the next page or display an overlay. 
+The objective of this high fildelity prototype is to provide a highly functional and interactive representation of the UNEP website and to see how those features influence the user's choice and performance. I changed the frames from the low fidelity prototype to fit a cellular device since there are more users who have access to a cellphone than a laptop or computer. I used the prototyping features in Figma to make components such as buttons and the hamburger menu clickable to allow clicking to increment to the next page or display an overlay. A cognitive walkthrough was also conducted and changes were made to improve the design. 
 
 ## Tasks
 >  The tasks were generated from the user personas and scenarios 
@@ -35,12 +35,13 @@ The cognitive walkthrough was conducted with two of my peers in Digital Humaniti
 
 ### Summary of Cognitive Walkthrough
 My peers were able to understand the purpose of the prototype and made remarks about the understandable flow. The biggest issue found was the overwhelming menu bar (especially for mobile devices) and the vague "What we do" navigation tab that prevented them from recognizing where to click to perform the tasks. They did not know what to expect when pressing the tab. Moreover, the small font has brought to my attention.  
-##### • What I did
+
+#### • Changes I made
 > Instead of a laundry list of menus in the “what we do” tab, I created a separate page that shows all the options. The fonts for each option is enlarged and is displayed in the form of a button that prompts the users to the designated page. 
+> I changed the font 
 
 
-
-## Other changes made post cognitive walkthrough
+#### • Other changes made post cognitive walkthrough
 
 ## Usability Testing 
 [To be filled out after conducting]
