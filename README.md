@@ -39,6 +39,9 @@ My peers were able to understand the purpose of the prototype and made remarks a
 #### • Changes I made
 > Instead of a laundry list of menus in the “what we do” tab, I created a separate page that shows all the options. The fonts for each option is enlarged and is displayed in the form of a button that prompts the users to the designated page. 
 
+![new_whattodo](https://user-images.githubusercontent.com/114601962/202966129-8ca9fd6c-40f6-4ee9-9f90-b21a80c7901e.png)
+
+<img src="https://user-images.githubusercontent.com/114601962/202966129-8ca9fd6c-40f6-4ee9-9f90-b21a80c7901e.png" width ="150" height="280">
 
 > I changed the font of the body texts from size 11 to 14. 
 
