@@ -41,7 +41,7 @@ My peers were able to understand the purpose of the prototype and made remarks a
 
 ![new_whattodo](https://user-images.githubusercontent.com/114601962/202966129-8ca9fd6c-40f6-4ee9-9f90-b21a80c7901e.png)
 
-<img src="https://user-images.githubusercontent.com/114601962/202966129-8ca9fd6c-40f6-4ee9-9f90-b21a80c7901e.png" width ="150" height="280">
+<img src="https://user-images.githubusercontent.com/114601962/202966129-8ca9fd6c-40f6-4ee9-9f90-b21a80c7901e.png" width ="300" height="600">
 
 > I changed the font of the body texts from size 11 to 14. 
 
