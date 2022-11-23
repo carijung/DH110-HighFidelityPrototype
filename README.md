@@ -63,7 +63,3 @@ My peers were able to understand the purpose of the prototype and made remarks a
 
 <img src="https://user-images.githubusercontent.com/114601962/202967570-3552b507-ee48-44df-ad62-65fd3ca8b7a5.png" width="590" height="510">
 
-## Usability Testing 
-
-[To be filled out after conducting]
-
